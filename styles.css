@@ -1,0 +1,51 @@
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.cabeca{
+    background-color: black;
+    font-weight: bold;
+}
+.corpo{
+    width: 70%;
+    background-color: black;
+    font-weight: bold;
+    border-radius: 3%;
+}
+.rodape{
+    background-color: black;
+    height: 20;
+    width: ;
+}
+header {
+	background-color: black;
+	color: #fff;
+	padding: 20px;
+}
+
+header h1 {
+	margin: 0;
+}
+
+header nav ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.meu-botao1 {
+    background-color: white;
+      color:  black;
+      border: none;
+      padding: 10px 20px;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: background-color 0.5s ease;
+      font-weight: bold;
+}
+.meu-botao1:hover {
+      background-color: rgb(185, 185, 185);
+}
+table{
+}
+  
